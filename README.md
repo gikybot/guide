@@ -24,7 +24,7 @@ Se você quiser usar o Giky no seu servidor, você pode adicionar ele [clicando 
 
 Está com dúvidas e precisa de ajuda, quer saber porque eu estou instável, está afim de descobrir novidades minhas ou apenas quer bater um papo com outras pessoas?
 
-Então entre no meu [servidor de suporte!](https://discord.gg/aehQbAY) Lá temos ajudantes incríveis e atenciosos que estão lá sempre que você precisar de ajuda. Tire suas dúvidas, aprenda novas coisas e muito mais!
+Então entre no meu [servidor de suporte!](https://discord.gg/DVVjF77) Lá temos ajudantes incríveis e atenciosos que estão lá sempre que você precisar de ajuda. Tire suas dúvidas, aprenda novas coisas e muito mais!
 
 Seria uma honra ter você lá!
 
@@ -47,6 +47,6 @@ Twitter: [clique aqui](https://twitter.com/gikybot)
 
 Vincks - Desenvolvedor
 
-Para mais informações entre em contato atráves da nossa Comunidade do Discord: [Comunidade do Giky](https://discord.gg/aehQbAY)
+Para mais informações entre em contato atráves da nossa Comunidade do Discord: [Comunidade do Giky](https://discord.gg/DVVjF77)
 
 ---
